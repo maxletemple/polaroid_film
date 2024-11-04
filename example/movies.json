@@ -1,0 +1,130 @@
+[
+    {
+        "title": "Matrix",
+        "year": "1999",
+        "director": "Lana and Lilly Wachowski",
+        "format": "film",
+        "actors": [
+            "Keanu Reeves",
+            "Laurence Fishburne",
+            "Carrie-Anne Moss",
+            "Hugo Weaving",
+            "Joe Pantoliano"
+        ],
+        "rating": 4.6,
+        "duration": "136",
+        "pic_url": "matrix.jpg",
+        "date_added": 1730672275.6694143
+    },
+    {
+        "title": "\u5343\u3068\u5343\u5c0b\u306e\u795e\u96a0\u3057",
+        "year": "2001",
+        "director": "Hayao Miyasaki",
+        "format": "animated film",
+        "actors": [
+            "Florine Orphelin",
+            "Donald Reignoux",
+            "Anne Ludovik",
+            "Jean-Claude Sachot"
+        ],
+        "rating": 4.2,
+        "duration": "124",
+        "pic_url": "chihiro.jpg",
+        "date_added": 1730672343.244714
+    },
+    {
+        "title": "The fellowship of the ring",
+        "year": "2001",
+        "director": "Peter Jackson",
+        "format": "film",
+        "actors": [
+            "Elijah Wood",
+            "Ian McKellen",
+            "Viggo Mortensen",
+            "Sean Astin"
+        ],
+        "rating": 4.5,
+        "duration": "178",
+        "pic_url": "the_fellowship_of_the_ring.jpg",
+        "date_added": 1730673913.5206013
+    },
+    {
+        "title": "2001: a space odyssey",
+        "year": "1968",
+        "director": "Stanley Kubrick",
+        "format": "film",
+        "actors": [
+            "Keir Dullea",
+            "Gary Lockwood",
+            "William Sylvester"
+        ],
+        "rating": 5.0,
+        "duration": "139",
+        "pic_url": "2001:_a_space_odyssey.jpg",
+        "date_added": 1730675258.6221614
+    },
+    {
+        "title": "Blade Runner",
+        "year": "1982",
+        "director": "Ridley Scott",
+        "format": "film",
+        "actors": [
+            "Harrison Ford",
+            "Rutger Hauer",
+            "Sean Young",
+            "Edward James Olmos"
+        ],
+        "rating": 4.5,
+        "duration": "117",
+        "pic_url": "blade_runner.jpg",
+        "date_added": 1730675538.9291344
+    },
+    {
+        "title": "Dune Part One",
+        "year": "2021",
+        "director": "Denis Villeneuve",
+        "format": "film",
+        "actors": [
+            "Timoth\u00e9e Chalamet",
+            "Rebecca Ferguson",
+            "Oscar Isaac",
+            "Josh Brolin",
+            "Zendaya"
+        ],
+        "rating": 4.0,
+        "duration": "155",
+        "pic_url": "dune_part_one.jpg",
+        "date_added": 1730676433.7271705
+    },
+    {
+        "title": "Dune Part Two",
+        "year": "2024",
+        "director": "Denis Villeneuve",
+        "format": "film",
+        "actors": [
+            "Timoth\u00e9e Chalamet",
+            "Rebecca Ferguson",
+            "Zendaya",
+            "Austin Butler"
+        ],
+        "rating": 4.3,
+        "duration": "166",
+        "pic_url": "dune_part_two.jpg",
+        "date_added": 1730676543.335994
+    },
+    {
+        "title": "Nous les Leroy",
+        "year": "2024",
+        "director": "Florent Bernard",
+        "format": "film",
+        "actors": [
+            "Charlotte Gainsbourg",
+            "Jos\u00e9 Garcia",
+            "Adrien M\u00e9nielle"
+        ],
+        "rating": 3.8,
+        "duration": "103",
+        "pic_url": "nous_les_leroy.jpg",
+        "date_added": 1730676776.3308382
+    }
+]
