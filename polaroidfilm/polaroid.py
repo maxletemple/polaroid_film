@@ -45,6 +45,9 @@ def template_standard(location, movie):
             half = len(title) // 2
             while (title[half] != " "):
                 half += 1
+            if (len(title[:half]) > 17):
+                half = 18
+                title = title[:half+1] + title[half:]
             title = title[:half] + "\n" + title[half + 1:]
             break
         cursor_height += 1
