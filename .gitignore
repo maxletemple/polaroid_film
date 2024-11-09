@@ -1,3 +1,6 @@
 venv/
 work/
 .vscode/
+
+*.pyc
+*.pyo
